@@ -1,5 +1,5 @@
-# fastpython
-Aulas, práticas de exercícios do módulo de Fundamentos de Python Aplicado a Dados.
+# Formação Acelerada em Soluções de TechDesign - Cesar School
+Aulas e práticas de exercícios do módulo de Fundamentos de Python Aplicado a Dados.
 
 Repositório contém:
 
